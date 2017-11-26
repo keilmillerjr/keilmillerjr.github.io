@@ -1,7 +1,5 @@
 # PROJECTS BY KEILMILLERJR
 
-[keilmillerjr.github.io](keilmillerjr.github.io)
-
 Various projects that I have created, mostly related to arcade machine emulation or web design.
 
 ## ARCADE
