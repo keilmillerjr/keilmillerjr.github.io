@@ -30,6 +30,7 @@ Various projects that I have created, mostly related to arcade machine emulation
 #### OTHER
 
 * [Launch App](https://github.com/keilmillerjr/launch-app)
+* [Attract Tags](https://github.com/keilmillerjr/attract-tags)
 
 ## WEB DESIGN
 
