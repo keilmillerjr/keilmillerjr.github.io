@@ -13,7 +13,7 @@ Various projects that I have created, mostly related to arcade machine emulation
 
 #### LAYOUTS
 
-* [Flavors](https://github.com/keilmillerjr/flavors-layout)
+* [Flavors](https://github.com/keilmillerjr/flavors-layout)
 * [mvscomplete](https://github.com/keilmillerjr/mvscomplete)
 
 #### PLUGINS
