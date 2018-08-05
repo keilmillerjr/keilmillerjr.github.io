@@ -15,6 +15,7 @@ Various projects that I have created, mostly related to arcade machine emulation
 
 * [Flavors](https://github.com/keilmillerjr/flavors-layout)
 * [mvscomplete](https://github.com/keilmillerjr/mvscomplete)
+* [playchoicecomplete](https://github.com/keilmillerjr/playchoicecomplete-layout)
 
 #### PLUGINS
 
