@@ -2,6 +2,9 @@
 
 Various projects that I have created, mostly related to arcade machine emulation or web design.
 
+[Email](mailto:keilmillerjr@me.com)
+[GitHub](https://github.com/keilmillerjr)
+
 ## ARCADE
 
 * [ArcadePC Guide](https://github.com/keilmillerjr/arcadepc-guide) *incomplete*
@@ -19,6 +22,7 @@ Various projects that I have created, mostly related to arcade machine emulation
 
 #### PLUGINS
 
+* [Debug](https://github.com/keilmillerjr/debug-plugin)
 * [FadeToGame](https://github.com/keilmillerjr/fadetogame-plugin)
 * [Leap](https://github.com/keilmillerjr/leap-plugin)
 
